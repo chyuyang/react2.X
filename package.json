@@ -15,6 +15,6 @@
   },
   "devDependencies": {
     "amazeui-touch": "^2.0.0-alpha.1",
-    "react-router": "^4.2.0"
+    "react-router": "^3.0.0"
   }
 }
